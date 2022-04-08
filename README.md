@@ -2,4 +2,4 @@
 Implementing a dice roll for pig-game
 
 
-[DEMO](dicedemo.netlify.app)
+[DEMO](https://dicedemo.netlify.app)
